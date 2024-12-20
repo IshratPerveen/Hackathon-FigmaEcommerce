@@ -13,7 +13,7 @@ I took the Figma design provided by the hackathon organizers and translated it i
 
 ## 👨‍💻 Developed By:
 Ishrat Perveen
-Artificial Inteligence Web 3.0 Metaverse | From Governor House Karachi (Ongoing).
+Artificial Intelligence Web 3.0 Metaverse | From Governor House Karachi (Ongoing).
 
 ---
 
